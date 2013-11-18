@@ -1,0 +1,6 @@
+S:\Visual Studio Projects\Voting\Voting\bin\Debug\Voting.exe.config
+S:\Visual Studio Projects\Voting\Voting\bin\Debug\Voting.exe
+S:\Visual Studio Projects\Voting\Voting\bin\Debug\Voting.pdb
+S:\Visual Studio Projects\Voting\Voting\obj\Debug\Voting.csprojResolveAssemblyReference.cache
+S:\Visual Studio Projects\Voting\Voting\obj\Debug\Voting.exe
+S:\Visual Studio Projects\Voting\Voting\obj\Debug\Voting.pdb
